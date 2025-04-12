@@ -13,7 +13,7 @@ import {
   loadCSS,
 } from './aem.js';
 
-// test
+// test 2
 
 /**
  * Builds hero block and prepends to main in a new section.
