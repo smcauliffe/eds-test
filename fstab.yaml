@@ -1,2 +1,4 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1w-adqaJbkAKgpnXk78mCFJm-IbDVTGTN
+  vanity:
+  - seanmcauliffe.dev
